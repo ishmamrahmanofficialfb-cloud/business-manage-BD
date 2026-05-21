@@ -1,0 +1,6 @@
+{
+  "name": "Business Manage BD",
+  "description": "A multi-user local business management web application for tracking inventory, sales, customers, expenses, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
